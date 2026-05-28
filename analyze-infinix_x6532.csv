@@ -1,0 +1,252 @@
+IPProto,SrcPort,DstIp,DstPort,UID,App,PackageName,Proto,Status,Info,BytesSent,BytesRcvd,PktsSent,PktsRcvd,FirstSeen,LastSeen
+17,56820,10.215.173.2,53,10101,Google Play services,com.google.android.gms,DNS,Closed,mtalk.google.com,62,117,1,1,2026-05-28T16:10:01.026Z,2026-05-28T16:10:01.030Z
+6,56568,74.125.206.188,5228,10101,Google Play services,com.google.android.gms,TLS,Closed,mtalk.google.com,1333,6213,9,10,2026-05-28T16:10:01.035Z,2026-05-28T16:11:31.779Z
+17,43120,10.215.173.2,53,1000,Android,android,DNS,Closed,android.apis.google.com,69,119,1,1,2026-05-28T16:10:01.067Z,2026-05-28T16:10:01.072Z
+6,52050,57.144.120.144,443,10228,Instagram,com.instagram.android,HTTPS,Closed,edge-mqtt.facebook.com,3606,1826,8,8,2026-05-28T16:10:01.180Z,2026-05-28T16:11:31.780Z
+17,42918,10.215.173.2,53,10228,Instagram,com.instagram.android,DNS,Closed,edge-mqtt.facebook.com,68,108,1,1,2026-05-28T16:10:01.183Z,2026-05-28T16:10:01.203Z
+1,1458,142.251.142.78,0,-1,Unknown,unknown,ICMP,Closed,android.apis.google.com,300,300,5,5,2026-05-28T16:10:01.184Z,2026-05-28T16:10:01.436Z
+17,24739,10.215.173.2,53,1000,Android,android,DNS,Closed,time1.google.com,62,78,1,1,2026-05-28T16:10:01.186Z,2026-05-28T16:10:01.190Z
+6,54282,216.239.35.0,80,1000,Android,android,HTTP,Closed,time1.google.com,395,673,5,5,2026-05-28T16:10:01.195Z,2026-05-28T16:10:10.091Z
+17,19810,10.215.173.2,53,1000,Android,android,DNS,Closed,gslb.shalltry.com,63,229,1,1,2026-05-28T16:10:01.286Z,2026-05-28T16:10:01.304Z
+6,41786,154.85.94.35,443,1000,Android,android,HTTPS,Closed,gslb.shalltry.com,1494,899,9,8,2026-05-28T16:10:01.308Z,2026-05-28T16:11:31.779Z
+17,13700,10.215.173.2,53,1000,Android,android,DNS,Closed,www.google.com,60,188,1,1,2026-05-28T16:10:01.444Z,2026-05-28T16:10:01.449Z
+6,34592,142.251.150.119,80,1000,Android,android,HTTP,Closed,www.google.com,473,12085,7,6,2026-05-28T16:10:01.454Z,2026-05-28T16:10:01.671Z
+1,1460,74.125.206.188,0,-1,Unknown,unknown,ICMP,Closed,mtalk.google.com,300,120,5,2,2026-05-28T16:10:01.457Z,2026-05-28T16:10:04.615Z
+17,2743,10.215.173.2,53,10101,Google Play services,com.google.android.gms,DNS,Closed,auditrecording-pa.googleapis.com,78,318,1,1,2026-05-28T16:10:01.514Z,2026-05-28T16:10:01.554Z
+6,48320,172.217.17.42,443,10101,Google Play services,com.google.android.gms,HTTPS,Closed,auditrecording-pa.googleapis.com,2783,6138,17,18,2026-05-28T16:10:01.608Z,2026-05-28T16:10:02.003Z
+17,57642,10.215.173.2,53,10158,TPMS,com.hoffnung,DNS,Closed,ire-dsu.shalltry.com,66,164,1,1,2026-05-28T16:10:01.651Z,2026-05-28T16:10:01.656Z
+6,35632,47.254.156.191,443,10158,TPMS,com.hoffnung,HTTPS,Closed,ire-dsu.shalltry.com,2484,4040,8,9,2026-05-28T16:10:01.662Z,2026-05-28T16:10:53.983Z
+17,57533,10.215.173.2,53,10095,Meta Services,com.facebook.services,DNS,Closed,z-m-gateway.facebook.com,70,114,1,1,2026-05-28T16:10:02.415Z,2026-05-28T16:10:02.437Z
+6,47742,57.144.120.3,443,10095,Meta Services,com.facebook.services,HTTPS,Active,z-m-gateway.facebook.com,3728,4881,25,22,2026-05-28T16:10:02.441Z,2026-05-28T16:26:11.186Z
+17,55584,57.144.120.196,443,10228,Instagram,com.instagram.android,QUIC,Closed,,2655,2895,21,23,2026-05-28T16:10:04.207Z,2026-05-28T16:19:37.266Z
+17,54096,10.215.173.2,53,1000,Android,android,DNS,Closed,play.google.com,61,77,1,1,2026-05-28T16:10:04.630Z,2026-05-28T16:10:04.665Z
+1,1462,216.58.205.46,0,-1,Unknown,unknown,ICMP,Closed,play.google.com,300,240,5,4,2026-05-28T16:10:04.668Z,2026-05-28T16:10:05.867Z
+17,54506,41.110.60.34,443,10228,Instagram,com.instagram.android,UDP,Closed,,1376,1336,2,2,2026-05-28T16:10:05.074Z,2026-05-28T16:10:05.114Z
+17,41732,41.110.60.100,443,10228,Instagram,com.instagram.android,UDP,Closed,,1376,1336,2,2,2026-05-28T16:10:05.075Z,2026-05-28T16:10:05.114Z
+17,3996,10.215.173.2,53,1000,Android,android,DNS,Closed,www.youtube.com,61,351,1,1,2026-05-28T16:10:05.882Z,2026-05-28T16:10:05.904Z
+1,1464,142.250.181.142,0,-1,Unknown,unknown,ICMP,Closed,www.youtube.com,300,240,5,4,2026-05-28T16:10:05.915Z,2026-05-28T16:10:07.136Z
+17,51727,10.215.173.2,53,1000,Android,android,DNS,Closed,www.googleapis.com,64,304,1,1,2026-05-28T16:10:07.150Z,2026-05-28T16:10:07.193Z
+1,1466,64.233.166.95,0,-1,Unknown,unknown,ICMP,Closed,www.googleapis.com,300,180,5,3,2026-05-28T16:10:07.197Z,2026-05-28T16:10:09.395Z
+17,4735,10.215.173.2,53,10106,Google Play Store,com.android.vending,DNS,Closed,android.clients.google.com,72,362,1,1,2026-05-28T16:10:09.061Z,2026-05-28T16:10:09.069Z
+17,13369,10.215.173.2,53,10106,Google Play Store,com.android.vending,DNS,Closed,play-fe.googleapis.com,68,84,1,1,2026-05-28T16:10:09.078Z,2026-05-28T16:10:09.082Z
+17,6526,10.215.173.2,53,10106,Google Play Store,com.android.vending,DNS,Closed,play.googleapis.com,65,129,1,1,2026-05-28T16:10:09.091Z,2026-05-28T16:10:09.095Z
+17,63053,10.215.173.2,53,10106,Google Play Store,com.android.vending,DNS,Closed,playstoregatewayadapter-pa.googleapis.com,87,343,1,1,2026-05-28T16:10:09.108Z,2026-05-28T16:10:09.112Z
+17,58942,10.215.173.2,53,10106,Google Play Store,com.android.vending,DNS,Closed,prod-lt-playstoregatewayadapter-pa.googleapis.com,95,351,1,1,2026-05-28T16:10:09.118Z,2026-05-28T16:10:09.123Z
+17,52142,10.215.173.2,53,10106,Google Play Store,com.android.vending,DNS,Closed,play-lh.googleusercontent.com,75,91,1,1,2026-05-28T16:10:09.153Z,2026-05-28T16:10:09.158Z
+17,10731,10.215.173.2,53,10106,Google Play Store,com.android.vending,DNS,Closed,i.ytimg.com,57,313,1,1,2026-05-28T16:10:09.167Z,2026-05-28T16:10:09.174Z
+17,34014,172.217.20.238,443,10106,Google Play Store,com.android.vending,QUIC,Closed,play-fe.googleapis.com,6084,7129,16,15,2026-05-28T16:10:09.457Z,2026-05-28T16:10:09.706Z
+6,33934,172.217.20.238,443,10106,Google Play Store,com.android.vending,HTTPS,Closed,play-fe.googleapis.com,1052,6181,10,9,2026-05-28T16:10:09.461Z,2026-05-28T16:14:14.774Z
+17,63569,10.215.173.2,53,10101,Google Play services,com.google.android.gms,DNS,Closed,spot-pa.googleapis.com,68,132,1,1,2026-05-28T16:10:27.485Z,2026-05-28T16:10:27.514Z
+17,48752,216.239.38.223,443,10101,Google Play services,com.google.android.gms,QUIC,Closed,spot-pa.googleapis.com,10264,13696,25,21,2026-05-28T16:10:27.521Z,2026-05-28T16:10:28.233Z
+6,57822,216.239.38.223,443,10101,Google Play services,com.google.android.gms,HTTPS,Closed,spot-pa.googleapis.com,2242,7271,10,9,2026-05-28T16:10:27.659Z,2026-05-28T16:14:33.082Z
+17,48585,57.144.120.192,443,10228,Instagram,com.instagram.android,UDP,Closed,,1376,1336,2,2,2026-05-28T16:10:31.913Z,2026-05-28T16:10:32.016Z
+17,40045,31.13.69.1,443,10228,Instagram,com.instagram.android,UDP,Closed,,1376,1336,2,2,2026-05-28T16:10:42.132Z,2026-05-28T16:10:42.250Z
+17,48764,10.215.173.2,53,10117,Meta App Manager,com.facebook.appmanager,DNS,Closed,graph.facebook.com,64,116,1,1,2026-05-28T16:10:55.304Z,2026-05-28T16:10:55.337Z
+6,54540,57.144.120.141,443,10117,Meta App Manager,com.facebook.appmanager,HTTPS,Closed,graph.facebook.com,2721,5931,11,10,2026-05-28T16:10:55.368Z,2026-05-28T16:12:06.086Z
+17,5190,10.215.173.2,53,10166,Dynamic Bar,com.transsion.dynamicbar,DNS,Closed,ire-oneid.shalltry.com,68,191,1,1,2026-05-28T16:10:56.035Z,2026-05-28T16:10:56.054Z
+6,57226,3.160.188.22,443,10166,Dynamic Bar,com.transsion.dynamicbar,HTTPS,Closed,ire-oneid.shalltry.com,1954,5957,10,11,2026-05-28T16:10:56.062Z,2026-05-28T16:14:56.561Z
+17,41732,41.110.60.100,443,10228,Instagram,com.instagram.android,UDP,Closed,,1376,1336,2,2,2026-05-28T16:10:56.128Z,2026-05-28T16:10:56.177Z
+17,54506,41.110.60.34,443,10228,Instagram,com.instagram.android,UDP,Closed,,1376,1336,2,2,2026-05-28T16:10:56.133Z,2026-05-28T16:10:56.169Z
+6,38336,57.144.120.144,443,10228,Instagram,com.instagram.android,HTTPS,Closed,edge-mqtt.facebook.com,3750,1970,11,11,2026-05-28T16:11:31.932Z,2026-05-28T16:19:07.452Z
+17,1739,10.215.173.2,53,10228,Instagram,com.instagram.android,DNS,Closed,edge-mqtt.facebook.com,68,120,1,1,2026-05-28T16:11:31.936Z,2026-05-28T16:11:31.944Z
+6,57986,74.125.206.188,5228,10101,Google Play services,com.google.android.gms,TLS,Closed,mtalk.google.com,1421,6276,9,11,2026-05-28T16:11:31.942Z,2026-05-28T16:24:32.124Z
+17,42038,10.215.173.2,53,1000,Android,android,DNS,Closed,time.android.com,62,126,1,1,2026-05-28T16:14:40.803Z,2026-05-28T16:14:40.846Z
+17,44977,216.239.35.0,123,1000,Android,android,NTP,Closed,time.android.com,76,76,1,1,2026-05-28T16:14:40.896Z,2026-05-28T16:14:41.104Z
+6,39422,57.144.120.144,443,10228,Instagram,com.instagram.android,HTTPS,Closed,edge-mqtt.facebook.com,3607,1826,8,8,2026-05-28T16:19:07.488Z,2026-05-28T16:24:27.016Z
+17,4113,10.215.173.2,53,10228,Instagram,com.instagram.android,DNS,Closed,edge-mqtt.facebook.com,68,108,1,1,2026-05-28T16:19:07.499Z,2026-05-28T16:19:07.542Z
+17,31547,10.215.173.2,53,10106,Google Play Store,com.android.vending,DNS,Closed,play.googleapis.com,65,129,1,1,2026-05-28T16:19:07.870Z,2026-05-28T16:19:07.895Z
+6,33212,216.239.38.223,443,10106,Google Play Store,com.android.vending,HTTPS,Closed,play.googleapis.com,3175,7706,10,11,2026-05-28T16:19:07.905Z,2026-05-28T16:19:08.295Z
+17,1165,10.215.173.2,53,10228,Instagram,com.instagram.android,DNS,Closed,test-gateway.instagram.com,72,123,1,1,2026-05-28T16:19:37.312Z,2026-05-28T16:19:37.358Z
+17,49880,57.144.120.196,443,10228,Instagram,com.instagram.android,QUIC,Closed,,6542,3850,22,24,2026-05-28T16:19:37.320Z,2026-05-28T16:23:52.765Z
+17,48585,57.144.120.192,443,10228,Instagram,com.instagram.android,UDP,Closed,,163,120,2,2,2026-05-28T16:20:22.054Z,2026-05-28T16:20:22.226Z
+17,45609,10.215.173.2,53,10256,PCAPdroid,com.emanuelef.remote_capture,DNS,Closed,firebaselogging.googleapis.com,76,140,1,1,2026-05-28T16:21:56.907Z,2026-05-28T16:21:56.931Z
+6,60254,216.239.34.223,443,10256,PCAPdroid,com.emanuelef.remote_capture,HTTPS,Closed,firebaselogging.googleapis.com,1893,6193,7,7,2026-05-28T16:21:56.937Z,2026-05-28T16:24:37.256Z
+6,45774,31.13.69.61,5222,10227,WhatsApp,com.whatsapp,TCP,Active,,2589,3454,42,33,2026-05-28T16:22:00.989Z,2026-05-28T16:26:20.463Z
+17,60099,10.215.173.2,53,10227,WhatsApp,com.whatsapp,DNS,Closed,g.whatsapp.net,60,99,1,1,2026-05-28T16:22:00.995Z,2026-05-28T16:22:01.019Z
+17,24874,10.215.173.2,53,10227,WhatsApp,com.whatsapp,DNS,Closed,api.whatsapp.net,62,103,1,1,2026-05-28T16:22:01.333Z,2026-05-28T16:22:01.374Z
+17,56540,57.144.121.32,443,10227,WhatsApp,com.whatsapp,QUIC,Closed,,4208,3113,10,11,2026-05-28T16:22:01.337Z,2026-05-28T16:22:01.740Z
+17,40045,31.13.69.1,443,10228,Instagram,com.instagram.android,UDP,Closed,,96,54,1,1,2026-05-28T16:23:27.070Z,2026-05-28T16:23:27.115Z
+17,8622,10.215.173.2,53,10227,WhatsApp,com.whatsapp,DNS,Closed,2.android.pool.ntp.org,68,100,1,1,2026-05-28T16:23:27.479Z,2026-05-28T16:23:27.508Z
+17,38403,162.159.200.123,123,10227,WhatsApp,com.whatsapp,NTP,Closed,,76,76,1,1,2026-05-28T16:23:27.487Z,2026-05-28T16:23:27.500Z
+17,28163,10.215.173.2,53,10228,Instagram,com.instagram.android,DNS,Closed,test-gateway.instagram.com,72,123,1,1,2026-05-28T16:23:52.791Z,2026-05-28T16:23:52.812Z
+17,53161,31.13.69.142,443,10228,Instagram,com.instagram.android,QUIC,Active,test-gateway.instagram.com,8493,9098,54,54,2026-05-28T16:23:52.797Z,2026-05-28T16:26:00.233Z
+17,54506,41.110.60.34,443,10228,Instagram,com.instagram.android,UDP,Closed,,96,80,1,1,2026-05-28T16:23:55.159Z,2026-05-28T16:23:55.175Z
+17,41732,41.110.60.100,443,10228,Instagram,com.instagram.android,UDP,Closed,,96,54,1,1,2026-05-28T16:23:55.166Z,2026-05-28T16:23:55.178Z
+17,52275,10.215.173.2,53,10220,Firefox,org.mozilla.firefox,DNS,Closed,search.arin.net,61,93,1,1,2026-05-28T16:24:07.367Z,2026-05-28T16:24:07.418Z
+17,63416,10.215.173.2,53,10220,Firefox,org.mozilla.firefox,DNS,Closed,incoming.telemetry.mozilla.org,76,151,1,1,2026-05-28T16:24:08.366Z,2026-05-28T16:24:08.390Z
+17,45513,10.215.173.2,53,10220,Firefox,org.mozilla.firefox,DNS,Closed,ads.mozilla.org,61,113,1,1,2026-05-28T16:24:08.376Z,2026-05-28T16:24:08.401Z
+6,41312,34.120.208.123,443,10220,Firefox,org.mozilla.firefox,TLS,Closed,incoming.telemetry.mozilla.org,6362,7347,31,31,2026-05-28T16:24:08.397Z,2026-05-28T16:24:40.377Z
+6,33362,199.232.81.91,443,10220,Firefox,org.mozilla.firefox,TLS,Error,ads.mozilla.org,2031,4697,17,16,2026-05-28T16:24:08.406Z,2026-05-28T16:24:40.325Z
+17,2748,10.215.173.2,53,10220,Firefox,org.mozilla.firefox,DNS,Closed,search.arin.net,61,106,1,1,2026-05-28T16:24:08.619Z,2026-05-28T16:24:08.712Z
+17,31080,10.215.173.2,53,10220,Firefox,org.mozilla.firefox,DNS,Closed,cloudflare-dns.com,64,137,1,1,2026-05-28T16:24:09.215Z,2026-05-28T16:24:09.237Z
+17,57019,10.215.173.2,53,10220,Firefox,org.mozilla.firefox,DNS,Closed,example.org,57,89,1,1,2026-05-28T16:24:09.221Z,2026-05-28T16:24:09.241Z
+17,11288,10.215.173.2,53,10220,Firefox,org.mozilla.firefox,DNS,Closed,ipv4only.arpa,59,91,1,1,2026-05-28T16:24:09.225Z,2026-05-28T16:24:09.244Z
+17,47621,10.215.173.2,53,10220,Firefox,org.mozilla.firefox,DNS,Closed,detectportal.firefox.com,70,181,1,1,2026-05-28T16:24:09.229Z,2026-05-28T16:24:09.249Z
+17,25325,10.215.173.2,53,10220,Firefox,org.mozilla.firefox,DNS,Closed,safebrowsing.googleapis.com,73,89,1,1,2026-05-28T16:24:09.232Z,2026-05-28T16:24:09.252Z
+6,42636,34.107.221.82,80,10220,Firefox,org.mozilla.firefox,HTTP,Closed,detectportal.firefox.com,1042,840,10,10,2026-05-28T16:24:09.255Z,2026-05-28T16:24:40.367Z
+6,36120,192.178.203.95,443,10220,Firefox,org.mozilla.firefox,HTTPS,Error,safebrowsing.googleapis.com,3164,10649,13,14,2026-05-28T16:24:09.263Z,2026-05-28T16:24:09.503Z
+17,22349,10.215.173.2,53,10220,Firefox,org.mozilla.firefox,DNS,Closed,content-signature-2.cdn.mozilla.net,81,97,1,1,2026-05-28T16:24:10.039Z,2026-05-28T16:24:10.058Z
+6,42042,34.160.144.191,443,10220,Firefox,org.mozilla.firefox,TLS,Closed,content-signature-2.cdn.mozilla.net,1372,4189,12,15,2026-05-28T16:24:10.063Z,2026-05-28T16:24:40.362Z
+6,46740,199.43.0.47,443,10220,Firefox,org.mozilla.firefox,HTTPS,Error,search.arin.net,5621,82985,28,31,2026-05-28T16:24:10.884Z,2026-05-28T16:24:11.957Z
+17,55783,10.215.173.2,53,10220,Firefox,org.mozilla.firefox,DNS,Closed,c2y23vzfb5cg.statuspage.io,72,164,1,1,2026-05-28T16:24:11.462Z,2026-05-28T16:24:11.509Z
+17,17046,10.215.173.2,53,10220,Firefox,org.mozilla.firefox,DNS,Closed,cdn.jsdelivr.net,62,140,1,1,2026-05-28T16:24:11.468Z,2026-05-28T16:24:11.488Z
+6,46750,199.43.0.47,443,10220,Firefox,org.mozilla.firefox,HTTPS,Error,search.arin.net,5370,98154,23,29,2026-05-28T16:24:11.504Z,2026-05-28T16:24:40.307Z
+6,46762,199.43.0.47,443,10220,Firefox,org.mozilla.firefox,HTTPS,Error,search.arin.net,3377,4824,10,10,2026-05-28T16:24:11.519Z,2026-05-28T16:24:11.961Z
+6,46770,199.43.0.47,443,10220,Firefox,org.mozilla.firefox,HTTPS,Error,search.arin.net,3374,4666,10,10,2026-05-28T16:24:11.524Z,2026-05-28T16:24:11.962Z
+6,46786,199.43.0.47,443,10220,Firefox,org.mozilla.firefox,HTTPS,Closed,search.arin.net,3434,10547,12,13,2026-05-28T16:24:11.528Z,2026-05-28T16:24:12.028Z
+6,46800,199.43.0.47,443,10220,Firefox,org.mozilla.firefox,HTTPS,Error,search.arin.net,3454,27696,12,13,2026-05-28T16:24:11.532Z,2026-05-28T16:24:11.958Z
+17,6058,10.215.173.2,53,10220,Firefox,org.mozilla.firefox,DNS,Closed,c2y23vzfb5cg.statuspage.io,72,184,1,1,2026-05-28T16:24:11.559Z,2026-05-28T16:24:11.578Z
+6,39742,3.174.255.22,443,10220,Firefox,org.mozilla.firefox,HTTPS,Error,c2y23vzfb5cg.statuspage.io,3381,13846,18,21,2026-05-28T16:24:11.567Z,2026-05-28T16:24:40.311Z
+17,12239,10.215.173.2,53,10220,Firefox,org.mozilla.firefox,DNS,Closed,cdn.jsdelivr.net,62,166,1,1,2026-05-28T16:24:11.686Z,2026-05-28T16:24:11.706Z
+6,43458,104.17.207.5,443,10220,Firefox,org.mozilla.firefox,HTTPS,Error,cdn.jsdelivr.net,2432,8062,8,8,2026-05-28T16:24:11.692Z,2026-05-28T16:24:11.812Z
+6,43466,104.17.207.5,443,10220,Firefox,org.mozilla.firefox,HTTPS,Error,cdn.jsdelivr.net,3517,100350,24,37,2026-05-28T16:24:11.696Z,2026-05-28T16:24:40.313Z
+6,43482,104.17.207.5,443,10220,Firefox,org.mozilla.firefox,HTTPS,Error,cdn.jsdelivr.net,3049,21324,14,14,2026-05-28T16:24:11.699Z,2026-05-28T16:24:12.138Z
+6,46806,199.43.0.47,443,10220,Firefox,org.mozilla.firefox,HTTPS,Closed,search.arin.net,3011,5285,12,12,2026-05-28T16:24:11.999Z,2026-05-28T16:24:40.403Z
+6,46812,199.43.0.47,443,10220,Firefox,org.mozilla.firefox,HTTPS,Error,search.arin.net,2963,5322,11,10,2026-05-28T16:24:12.002Z,2026-05-28T16:24:40.297Z
+6,46814,199.43.0.47,443,10220,Firefox,org.mozilla.firefox,HTTPS,Error,search.arin.net,3007,5485,12,11,2026-05-28T16:24:12.005Z,2026-05-28T16:24:40.298Z
+6,46828,199.43.0.47,443,10220,Firefox,org.mozilla.firefox,HTTPS,Error,search.arin.net,2999,8459,12,12,2026-05-28T16:24:12.008Z,2026-05-28T16:24:40.298Z
+6,46832,199.43.0.47,443,10220,Firefox,org.mozilla.firefox,HTTPS,Error,search.arin.net,2282,3840,7,6,2026-05-28T16:24:12.044Z,2026-05-28T16:24:17.307Z
+17,47904,104.17.207.5,443,10220,Firefox,org.mozilla.firefox,QUIC,Closed,cdn.jsdelivr.net,4365,11028,8,14,2026-05-28T16:24:12.103Z,2026-05-28T16:24:40.310Z
+17,42469,10.215.173.2,53,10220,Firefox,org.mozilla.firefox,DNS,Closed,accountws.arin.net,64,80,1,1,2026-05-28T16:24:12.166Z,2026-05-28T16:24:12.223Z
+17,63158,10.215.173.2,53,10220,Firefox,org.mozilla.firefox,DNS,Closed,o1069899.ingest.sentry.io,71,87,1,1,2026-05-28T16:24:12.268Z,2026-05-28T16:24:12.288Z
+6,59222,34.160.81.0,443,10220,Firefox,org.mozilla.firefox,HTTPS,Closed,o1069899.ingest.sentry.io,1910,5044,10,10,2026-05-28T16:24:12.306Z,2026-05-28T16:24:12.643Z
+17,46767,10.215.173.2,53,10220,Firefox,org.mozilla.firefox,DNS,Closed,accountws.arin.net,64,109,1,1,2026-05-28T16:24:12.429Z,2026-05-28T16:24:12.505Z
+6,35946,192.149.252.48,443,10220,Firefox,org.mozilla.firefox,HTTPS,Error,accountws.arin.net,2940,4904,11,10,2026-05-28T16:24:12.438Z,2026-05-28T16:24:40.290Z
+6,35962,192.149.252.48,443,10220,Firefox,org.mozilla.firefox,HTTPS,Error,accountws.arin.net,3517,5998,13,13,2026-05-28T16:24:12.443Z,2026-05-28T16:24:40.290Z
+17,10522,10.215.173.2,53,10220,Firefox,org.mozilla.firefox,DNS,Closed,www.arin.net,58,74,1,1,2026-05-28T16:24:12.451Z,2026-05-28T16:24:12.523Z
+17,39536,10.215.173.2,53,10220,Firefox,org.mozilla.firefox,DNS,Closed,assets.mozilla.net,64,149,1,1,2026-05-28T16:24:12.457Z,2026-05-28T16:24:12.478Z
+6,51186,34.117.64.196,443,10220,Firefox,org.mozilla.firefox,TLS,Error,assets.mozilla.net,2923,7433,30,33,2026-05-28T16:24:12.486Z,2026-05-28T16:24:40.312Z
+6,35968,192.149.252.48,443,10220,Firefox,org.mozilla.firefox,HTTPS,Closed,accountws.arin.net,2925,4729,11,11,2026-05-28T16:24:12.526Z,2026-05-28T16:24:40.403Z
+6,35600,192.149.252.47,443,10220,Firefox,org.mozilla.firefox,HTTPS,Error,www.arin.net,2796,8037,11,11,2026-05-28T16:24:12.531Z,2026-05-28T16:24:40.308Z
+17,28911,10.215.173.2,53,10220,Firefox,org.mozilla.firefox,DNS,Closed,rdap-bootstrap.arin.net,69,117,1,1,2026-05-28T16:24:12.613Z,2026-05-28T16:24:12.652Z
+17,57419,10.215.173.2,53,10220,Firefox,org.mozilla.firefox,DNS,Closed,rdap-bootstrap.arin.net,69,114,1,1,2026-05-28T16:24:12.665Z,2026-05-28T16:24:12.716Z
+6,41082,199.71.0.160,443,10220,Firefox,org.mozilla.firefox,HTTPS,Closed,rdap-bootstrap.arin.net,2878,4331,10,10,2026-05-28T16:24:12.669Z,2026-05-28T16:24:18.237Z
+17,28641,10.215.173.2,53,10106,Google Play Store,com.android.vending,DNS,Closed,play-fe.googleapis.com,68,84,1,1,2026-05-28T16:24:13.230Z,2026-05-28T16:24:13.234Z
+17,47421,142.251.36.142,443,10106,Google Play Store,com.android.vending,QUIC,Closed,play-fe.googleapis.com,12871,8694,25,19,2026-05-28T16:24:13.277Z,2026-05-28T16:24:13.712Z
+17,36322,10.215.173.2,53,10220,Firefox,org.mozilla.firefox,DNS,Closed,rdap.arin.net,59,107,1,1,2026-05-28T16:24:13.535Z,2026-05-28T16:24:13.578Z
+17,61531,10.215.173.2,53,10220,Firefox,org.mozilla.firefox,DNS,Closed,rdap.arin.net,59,104,1,1,2026-05-28T16:24:13.588Z,2026-05-28T16:24:13.670Z
+6,41098,199.71.0.160,443,10220,Firefox,org.mozilla.firefox,HTTPS,Closed,rdap.arin.net,2838,10960,10,10,2026-05-28T16:24:13.590Z,2026-05-28T16:24:19.184Z
+6,48686,31.13.69.20,443,10228,Instagram,com.instagram.android,HTTPS,Closed,edge-mqtt.facebook.com,5230,4930,9,9,2026-05-28T16:24:27.138Z,2026-05-28T16:25:28.369Z
+17,31226,10.215.173.2,53,10228,Instagram,com.instagram.android,DNS,Closed,edge-mqtt.facebook.com,68,108,1,1,2026-05-28T16:24:27.142Z,2026-05-28T16:24:27.181Z
+17,60495,10.215.173.2,53,10101,Google Play services,com.google.android.gms,DNS,Closed,mtalk.google.com,62,107,1,1,2026-05-28T16:24:32.217Z,2026-05-28T16:24:32.236Z
+6,52462,64.233.166.188,5228,10101,Google Play services,com.google.android.gms,TLS,Closed,mtalk.google.com,1325,1188,7,8,2026-05-28T16:24:32.249Z,2026-05-28T16:25:33.370Z
+17,64371,10.215.173.2,53,10220,Firefox,org.mozilla.firefox,DNS,Closed,www.google.com,60,188,1,1,2026-05-28T16:24:40.174Z,2026-05-28T16:24:40.184Z
+17,52965,10.215.173.2,53,10220,Firefox,org.mozilla.firefox,DNS,Closed,www.google.com,60,85,1,1,2026-05-28T16:24:40.213Z,2026-05-28T16:24:40.252Z
+6,40194,34.120.208.123,443,10220,Firefox,org.mozilla.firefox,TLS,Closed,incoming.telemetry.mozilla.org,4091,2582,21,23,2026-05-28T16:24:40.515Z,2026-05-28T16:24:47.622Z
+17,47873,10.215.173.2,53,10220,Firefox,org.mozilla.firefox,DNS,Closed,www.gstatic.com,61,77,1,1,2026-05-28T16:24:40.590Z,2026-05-28T16:24:40.629Z
+17,43479,10.215.173.2,53,10220,Firefox,org.mozilla.firefox,DNS,Closed,www.gstatic.com,61,118,1,1,2026-05-28T16:24:40.658Z,2026-05-28T16:24:40.696Z
+6,54078,142.251.152.119,443,10220,Firefox,org.mozilla.firefox,HTTPS,Closed,www.google.com,3687,7733,12,13,2026-05-28T16:24:42.241Z,2026-05-28T16:24:47.622Z
+17,36932,142.251.152.119,443,10220,Firefox,org.mozilla.firefox,QUIC,Closed,www.google.com,1280,0,1,0,2026-05-28T16:24:42.392Z,2026-05-28T16:24:42.392Z
+6,54084,142.251.152.119,443,10220,Firefox,org.mozilla.firefox,HTTPS,Closed,www.google.com,12801,226872,64,104,2026-05-28T16:24:42.447Z,2026-05-28T16:24:47.622Z
+17,45302,10.215.173.2,53,10228,Instagram,com.instagram.android,DNS,Closed,i-fallback.instagram.com,70,119,1,1,2026-05-28T16:24:43.354Z,2026-05-28T16:24:43.372Z
+17,32172,10.215.173.2,53,10228,Instagram,com.instagram.android,DNS,Closed,graph.facebook.com,64,104,1,1,2026-05-28T16:24:43.357Z,2026-05-28T16:24:43.400Z
+17,9715,10.215.173.2,53,10228,Instagram,com.instagram.android,DNS,Closed,i.instagram.com,61,106,1,1,2026-05-28T16:24:43.360Z,2026-05-28T16:24:43.403Z
+17,60059,10.215.173.2,53,10228,Instagram,com.instagram.android,DNS,Closed,graph-fallback.facebook.com,73,122,1,1,2026-05-28T16:24:43.363Z,2026-05-28T16:24:43.403Z
+17,28721,10.215.173.2,53,10228,Instagram,com.instagram.android,DNS,Closed,graph.instagram.com,65,110,1,1,2026-05-28T16:24:43.380Z,2026-05-28T16:24:43.399Z
+17,37059,10.215.173.2,53,10228,Instagram,com.instagram.android,DNS,Closed,graph-fallback.instagram.com,74,123,1,1,2026-05-28T16:24:43.407Z,2026-05-28T16:24:43.449Z
+17,36092,31.13.69.63,443,10228,Instagram,com.instagram.android,QUIC,Closed,i.instagram.com,5881,9235,13,15,2026-05-28T16:24:48.734Z,2026-05-28T16:24:49.074Z
+17,32975,41.110.60.34,443,10228,Instagram,com.instagram.android,QUIC,Closed,,1693,2166,5,6,2026-05-28T16:24:49.025Z,2026-05-28T16:24:49.072Z
+6,37864,41.110.60.34,443,10228,Instagram,com.instagram.android,TLS,Closed,,140,128,3,3,2026-05-28T16:24:49.027Z,2026-05-28T16:24:49.051Z
+17,61209,10.215.173.2,53,10228,Instagram,com.instagram.android,DNS,Closed,instagram.ftlm1-1.fna.fbcdn.net,77,93,1,1,2026-05-28T16:24:49.029Z,2026-05-28T16:24:49.066Z
+17,45402,41.110.60.100,443,10228,Instagram,com.instagram.android,QUIC,Closed,,1697,2167,5,6,2026-05-28T16:24:49.031Z,2026-05-28T16:24:49.083Z
+6,57528,41.110.60.100,443,10228,Instagram,com.instagram.android,TLS,Closed,,140,128,3,3,2026-05-28T16:24:49.033Z,2026-05-28T16:24:49.056Z
+17,9474,10.215.173.2,53,10228,Instagram,com.instagram.android,DNS,Closed,instagram.ftlm1-2.fna.fbcdn.net,77,93,1,1,2026-05-28T16:24:49.035Z,2026-05-28T16:24:49.074Z
+17,15910,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,clients2.google.com,65,139,1,1,2026-05-28T16:25:12.118Z,2026-05-28T16:25:12.145Z
+17,6513,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,clients2.google.com,65,105,1,1,2026-05-28T16:25:12.123Z,2026-05-28T16:25:12.173Z
+6,38872,216.58.204.174,80,10113,Chrome,com.android.chrome,HTTP,Closed,clients2.google.com,632,1362,5,5,2026-05-28T16:25:12.181Z,2026-05-28T16:25:12.476Z
+17,8646,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,www.google.com,60,85,1,1,2026-05-28T16:25:12.347Z,2026-05-28T16:25:12.385Z
+17,37436,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,www.google.com,60,188,1,1,2026-05-28T16:25:12.353Z,2026-05-28T16:25:12.373Z
+17,53415,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,accounts.google.com,65,115,1,1,2026-05-28T16:25:12.438Z,2026-05-28T16:25:12.501Z
+17,27099,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,accounts.google.com,65,81,1,1,2026-05-28T16:25:12.441Z,2026-05-28T16:25:12.476Z
+17,57669,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,www.google.com,60,85,1,1,2026-05-28T16:25:12.460Z,2026-05-28T16:25:12.478Z
+17,51717,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,www.google.com,60,188,1,1,2026-05-28T16:25:12.463Z,2026-05-28T16:25:12.476Z
+17,56704,142.251.154.119,443,10113,Chrome,com.android.chrome,QUIC,Closed,www.google.com,8271,14314,21,20,2026-05-28T16:25:12.492Z,2026-05-28T16:25:13.122Z
+6,34390,142.251.154.119,443,10113,Chrome,com.android.chrome,HTTPS,Closed,www.google.com,2194,6685,7,7,2026-05-28T16:25:12.496Z,2026-05-28T16:25:13.602Z
+6,51558,74.125.71.84,443,10113,Chrome,com.android.chrome,HTTPS,Closed,accounts.google.com,5666,10000,15,12,2026-05-28T16:25:12.499Z,2026-05-28T16:25:13.607Z
+17,32642,10.215.173.2,53,10101,Google Play services,com.google.android.gms,DNS,Closed,safebrowsing.googleapis.com,73,89,1,1,2026-05-28T16:25:12.699Z,2026-05-28T16:25:12.740Z
+17,40290,64.233.184.95,443,10101,Google Play services,com.google.android.gms,QUIC,Closed,safebrowsing.googleapis.com,5734,8548,11,12,2026-05-28T16:25:12.760Z,2026-05-28T16:25:12.976Z
+17,56025,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,optimizationguide-pa.googleapis.com,81,138,1,1,2026-05-28T16:25:12.924Z,2026-05-28T16:25:12.943Z
+17,29758,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,optimizationguide-pa.googleapis.com,81,145,1,1,2026-05-28T16:25:12.928Z,2026-05-28T16:25:12.947Z
+6,42430,216.239.36.223,443,10113,Chrome,com.android.chrome,HTTPS,Closed,optimizationguide-pa.googleapis.com,3016,7756,12,12,2026-05-28T16:25:12.952Z,2026-05-28T16:25:13.591Z
+6,59692,34.160.81.0,443,10220,Firefox,org.mozilla.firefox,HTTPS,Closed,o1069899.ingest.sentry.io,1966,1676,9,9,2026-05-28T16:25:13.075Z,2026-05-28T16:25:13.388Z
+6,36578,142.251.152.119,443,10220,Firefox,org.mozilla.firefox,HTTPS,Closed,www.google.com,4391,7503,13,13,2026-05-28T16:25:13.512Z,2026-05-28T16:25:26.860Z
+17,25788,10.215.173.2,53,10220,Firefox,org.mozilla.firefox,DNS,Closed,ublockorigin.pages.dev,68,100,1,1,2026-05-28T16:25:13.516Z,2026-05-28T16:25:13.539Z
+17,53803,10.215.173.2,53,10220,Firefox,org.mozilla.firefox,DNS,Closed,ublockorigin.pages.dev,68,216,1,1,2026-05-28T16:25:13.585Z,2026-05-28T16:25:13.607Z
+6,47700,172.66.47.179,443,10220,Firefox,org.mozilla.firefox,TLS,Closed,ublockorigin.pages.dev,140,128,3,3,2026-05-28T16:25:13.598Z,2026-05-28T16:25:13.620Z
+17,8087,10.215.173.2,53,10106,Google Play Store,com.android.vending,DNS,Closed,prod-lt-playstoregatewayadapter-pa.googleapis.com,95,159,1,1,2026-05-28T16:25:13.630Z,2026-05-28T16:25:13.635Z
+17,39134,216.239.32.223,443,10106,Google Play Store,com.android.vending,QUIC,Closed,prod-lt-playstoregatewayadapter-pa.googleapis.com,6381,9652,17,15,2026-05-28T16:25:13.654Z,2026-05-28T16:25:14.122Z
+6,47706,172.66.47.179,443,10220,Firefox,org.mozilla.firefox,HTTPS,Closed,cloudflare-ech.com,2942,28862,16,15,2026-05-28T16:25:13.663Z,2026-05-28T16:25:26.859Z
+17,44635,172.66.47.179,443,10220,Firefox,org.mozilla.firefox,QUIC,Closed,ublockorigin.pages.dev,1280,0,1,0,2026-05-28T16:25:13.889Z,2026-05-28T16:25:13.889Z
+17,46240,142.251.154.119,443,10113,Chrome,com.android.chrome,QUIC,Closed,www.google.com,10237,5628,17,19,2026-05-28T16:25:13.964Z,2026-05-28T16:25:14.159Z
+6,34402,142.251.154.119,443,10113,Chrome,com.android.chrome,HTTPS,Closed,www.google.com,2194,6684,7,7,2026-05-28T16:25:13.969Z,2026-05-28T16:25:14.161Z
+17,36832,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,ogads-pa.clients6.google.com,74,124,1,1,2026-05-28T16:25:14.140Z,2026-05-28T16:25:14.169Z
+17,22449,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,ogads-pa.clients6.google.com,74,90,1,1,2026-05-28T16:25:14.145Z,2026-05-28T16:25:14.154Z
+17,57837,142.251.142.74,443,10113,Chrome,com.android.chrome,QUIC,Closed,ogads-pa.clients6.google.com,5159,10127,16,15,2026-05-28T16:25:14.167Z,2026-05-28T16:25:14.600Z
+6,56994,142.251.142.74,443,10113,Chrome,com.android.chrome,HTTPS,Closed,ogads-pa.clients6.google.com,2232,12284,8,8,2026-05-28T16:25:14.261Z,2026-05-28T16:25:15.235Z
+17,47996,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,clientservices.googleapis.com,75,132,1,1,2026-05-28T16:25:14.487Z,2026-05-28T16:25:14.512Z
+17,37915,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,clientservices.googleapis.com,75,91,1,1,2026-05-28T16:25:14.493Z,2026-05-28T16:25:14.514Z
+6,53054,142.251.208.238,443,10113,Chrome,com.android.chrome,HTTPS,Closed,clientservices.googleapis.com,2885,7898,13,14,2026-05-28T16:25:14.520Z,2026-05-28T16:25:15.245Z
+17,39276,142.251.142.74,443,10113,Chrome,com.android.chrome,QUIC,Closed,ogads-pa.clients6.google.com,7092,6718,11,15,2026-05-28T16:25:14.550Z,2026-05-28T16:25:14.795Z
+17,33994,142.251.154.119,443,10113,Chrome,com.android.chrome,QUIC,Closed,www.google.com,13445,14514,39,40,2026-05-28T16:25:14.891Z,2026-05-28T16:25:15.285Z
+6,34406,142.251.154.119,443,10113,Chrome,com.android.chrome,HTTPS,Closed,www.google.com,1944,5589,5,5,2026-05-28T16:25:14.986Z,2026-05-28T16:25:15.236Z
+17,43802,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,play.google.com,61,111,1,1,2026-05-28T16:25:15.168Z,2026-05-28T16:25:15.201Z
+17,9149,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,play.google.com,61,77,1,1,2026-05-28T16:25:15.173Z,2026-05-28T16:25:15.201Z
+17,54725,142.251.154.119,443,10113,Chrome,com.android.chrome,QUIC,Closed,www.google.com,10446,7889,23,22,2026-05-28T16:25:15.191Z,2026-05-28T16:25:15.575Z
+17,48827,142.251.36.142,443,10113,Chrome,com.android.chrome,QUIC,Closed,play.google.com,7756,13233,19,17,2026-05-28T16:25:15.218Z,2026-05-28T16:25:15.487Z
+6,42764,142.251.36.142,443,10113,Chrome,com.android.chrome,HTTPS,Closed,play.google.com,2129,7188,8,8,2026-05-28T16:25:15.298Z,2026-05-28T16:25:23.260Z
+17,9595,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,update.googleapis.com,67,124,1,1,2026-05-28T16:25:15.947Z,2026-05-28T16:25:15.967Z
+17,45034,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,update.googleapis.com,67,83,1,1,2026-05-28T16:25:15.954Z,2026-05-28T16:25:15.981Z
+6,49826,142.250.74.174,443,10113,Chrome,com.android.chrome,HTTPS,Closed,update.googleapis.com,4054,8612,14,15,2026-05-28T16:25:15.984Z,2026-05-28T16:25:23.263Z
+17,63385,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,optimizationguide-pa.googleapis.com,81,138,1,1,2026-05-28T16:25:22.011Z,2026-05-28T16:25:22.038Z
+17,27634,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,optimizationguide-pa.googleapis.com,81,145,1,1,2026-05-28T16:25:22.014Z,2026-05-28T16:25:22.038Z
+6,47052,216.239.34.223,443,10113,Chrome,com.android.chrome,HTTPS,Closed,optimizationguide-pa.googleapis.com,5379,127517,27,45,2026-05-28T16:25:22.044Z,2026-05-28T16:25:23.268Z
+6,43494,31.13.69.20,443,10228,Instagram,com.instagram.android,HTTPS,Closed,edge-mqtt.facebook.com,3647,1866,9,9,2026-05-28T16:25:28.551Z,2026-05-28T16:26:21.875Z
+17,7219,10.215.173.2,53,10228,Instagram,com.instagram.android,DNS,Closed,edge-mqtt.facebook.com,68,108,1,1,2026-05-28T16:25:28.559Z,2026-05-28T16:25:28.581Z
+17,25246,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,www.google.com,60,85,1,1,2026-05-28T16:25:32.204Z,2026-05-28T16:25:32.236Z
+17,39224,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,www.google.com,60,188,1,1,2026-05-28T16:25:32.214Z,2026-05-28T16:25:32.221Z
+17,26744,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,www.google.com,60,85,1,1,2026-05-28T16:25:32.454Z,2026-05-28T16:25:32.475Z
+17,35816,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,www.google.com,60,188,1,1,2026-05-28T16:25:32.458Z,2026-05-28T16:25:32.471Z
+17,42750,142.251.151.119,443,10113,Chrome,com.android.chrome,QUIC,Closed,www.google.com,6986,12930,18,18,2026-05-28T16:25:32.529Z,2026-05-28T16:25:33.407Z
+17,65102,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,accounts.google.com,65,115,1,1,2026-05-28T16:25:32.572Z,2026-05-28T16:25:32.598Z
+17,22993,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,accounts.google.com,65,81,1,1,2026-05-28T16:25:32.577Z,2026-05-28T16:25:32.586Z
+6,51008,74.125.71.84,443,10113,Chrome,com.android.chrome,HTTPS,Error,accounts.google.com,2371,6711,9,8,2026-05-28T16:25:32.623Z,2026-05-28T16:25:33.379Z
+6,35894,142.251.151.119,443,10113,Chrome,com.android.chrome,HTTPS,Closed,www.google.com,2008,5590,5,5,2026-05-28T16:25:33.067Z,2026-05-28T16:25:33.358Z
+17,24508,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,page.portals.mobi,63,211,1,1,2026-05-28T16:25:33.082Z,2026-05-28T16:25:33.105Z
+17,5933,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,page.portals.mobi,63,165,1,1,2026-05-28T16:25:33.088Z,2026-05-28T16:25:33.129Z
+6,36192,13.207.64.198,80,10113,Chrome,com.android.chrome,HTTP,Closed,page.portals.mobi,100,88,2,2,2026-05-28T16:25:33.139Z,2026-05-28T16:25:33.347Z
+6,36206,13.207.64.198,80,10113,Chrome,com.android.chrome,HTTP,Closed,page.portals.mobi,100,88,2,2,2026-05-28T16:25:33.307Z,2026-05-28T16:25:33.452Z
+6,36214,13.207.64.198,80,10113,Chrome,com.android.chrome,HTTP,Closed,page.portals.mobi,100,88,2,2,2026-05-28T16:25:33.334Z,2026-05-28T16:25:33.526Z
+17,55473,142.251.151.119,443,10113,Chrome,com.android.chrome,QUIC,Closed,www.google.com,45202,748155,258,673,2026-05-28T16:25:33.364Z,2026-05-28T16:25:37.566Z
+6,36220,13.207.64.198,80,10113,Chrome,com.android.chrome,HTTP,Closed,page.portals.mobi,100,88,2,2,2026-05-28T16:25:33.373Z,2026-05-28T16:25:33.508Z
+6,36234,13.207.64.198,80,10113,Chrome,com.android.chrome,HTTP,Closed,page.portals.mobi,767,684,5,5,2026-05-28T16:25:33.442Z,2026-05-28T16:25:38.065Z
+6,50906,64.233.166.188,5228,10101,Google Play services,com.google.android.gms,TLS,Active,mtalk.google.com,1323,1148,7,7,2026-05-28T16:25:33.620Z,2026-05-28T16:25:34.070Z
+17,10239,10.215.173.2,53,10106,Google Play Store,com.android.vending,DNS,Closed,android.clients.google.com,72,346,1,1,2026-05-28T16:25:33.894Z,2026-05-28T16:25:33.905Z
+17,56605,10.215.173.2,53,10106,Google Play Store,com.android.vending,DNS,Closed,play.googleapis.com,65,129,1,1,2026-05-28T16:25:33.948Z,2026-05-28T16:25:33.954Z
+17,10156,10.215.173.2,53,10106,Google Play Store,com.android.vending,DNS,Closed,playstoregatewayadapter-pa.googleapis.com,87,327,1,1,2026-05-28T16:25:33.991Z,2026-05-28T16:25:34.006Z
+17,21391,10.215.173.2,53,10106,Google Play Store,com.android.vending,DNS,Closed,play-lh.googleusercontent.com,75,91,1,1,2026-05-28T16:25:34.048Z,2026-05-28T16:25:34.053Z
+17,28317,10.215.173.2,53,10106,Google Play Store,com.android.vending,DNS,Closed,i.ytimg.com,57,313,1,1,2026-05-28T16:25:34.067Z,2026-05-28T16:25:34.072Z
+17,21370,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,history.google.com,64,138,1,1,2026-05-28T16:25:34.319Z,2026-05-28T16:25:34.340Z
+17,40608,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,history.google.com,64,184,1,1,2026-05-28T16:25:34.324Z,2026-05-28T16:25:34.345Z
+17,37814,74.125.133.113,443,10113,Chrome,com.android.chrome,QUIC,Closed,history.google.com,6959,13068,18,18,2026-05-28T16:25:34.356Z,2026-05-28T16:25:34.710Z
+17,37098,142.251.36.142,443,10106,Google Play Store,com.android.vending,QUIC,Closed,play.google.com,6232,7265,18,17,2026-05-28T16:25:35.066Z,2026-05-28T16:25:38.012Z
+17,15216,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,ogads-pa.clients6.google.com,74,124,1,1,2026-05-28T16:25:35.079Z,2026-05-28T16:25:35.107Z
+17,16239,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,ogads-pa.clients6.google.com,74,90,1,1,2026-05-28T16:25:35.087Z,2026-05-28T16:25:35.144Z
+6,60902,142.251.36.142,443,10106,Google Play Store,com.android.vending,HTTPS,Active,play-fe.googleapis.com,867,5893,6,5,2026-05-28T16:25:35.097Z,2026-05-28T16:25:35.472Z
+17,47431,216.58.205.42,443,10113,Chrome,com.android.chrome,QUIC,Closed,ogads-pa.clients6.google.com,4967,10171,13,16,2026-05-28T16:25:35.174Z,2026-05-28T16:25:35.408Z
+17,43069,216.58.205.42,443,10113,Chrome,com.android.chrome,QUIC,Closed,ogads-pa.clients6.google.com,7316,5381,13,13,2026-05-28T16:25:35.392Z,2026-05-28T16:25:35.601Z
+17,56955,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,update.googleapis.com,67,124,1,1,2026-05-28T16:25:36.496Z,2026-05-28T16:25:36.517Z
+17,40356,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,update.googleapis.com,67,83,1,1,2026-05-28T16:25:36.502Z,2026-05-28T16:25:36.512Z
+6,51948,142.250.74.174,443,10113,Chrome,com.android.chrome,HTTPS,Closed,update.googleapis.com,4020,8695,14,15,2026-05-28T16:25:36.548Z,2026-05-28T16:25:37.983Z
+17,61732,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,play.google.com,61,111,1,1,2026-05-28T16:25:36.629Z,2026-05-28T16:25:36.669Z
+17,60495,10.215.173.2,53,10113,Chrome,com.android.chrome,DNS,Closed,play.google.com,61,77,1,1,2026-05-28T16:25:36.634Z,2026-05-28T16:25:36.639Z
+17,47472,142.251.36.142,443,10113,Chrome,com.android.chrome,QUIC,Closed,play.google.com,6424,13226,17,17,2026-05-28T16:25:36.653Z,2026-05-28T16:25:37.159Z
+6,60914,142.251.36.142,443,10113,Chrome,com.android.chrome,HTTPS,Closed,play.google.com,2193,7189,8,8,2026-05-28T16:25:36.969Z,2026-05-28T16:25:37.981Z
+17,32975,41.110.60.34,443,10228,Instagram,com.instagram.android,UDP,Closed,instagram.ftlm1-1.fna.fbcdn.net,1376,1336,2,2,2026-05-28T16:25:40.107Z,2026-05-28T16:25:40.148Z
+17,36092,31.13.69.63,443,10228,Instagram,com.instagram.android,UDP,Closed,i.instagram.com,1376,1336,2,2,2026-05-28T16:25:40.110Z,2026-05-28T16:25:40.211Z
+17,45402,41.110.60.100,443,10228,Instagram,com.instagram.android,UDP,Closed,instagram.ftlm1-2.fna.fbcdn.net,1376,1336,2,2,2026-05-28T16:25:40.113Z,2026-05-28T16:25:40.153Z
+17,41403,10.215.173.2,53,1000,Android,android,DNS,Closed,connectivitycheck.gstatic.com,75,91,1,1,2026-05-28T16:25:47.734Z,2026-05-28T16:25:47.758Z
+6,37304,142.251.142.67,80,1000,Android,android,HTTP,Closed,connectivitycheck.gstatic.com,415,354,5,5,2026-05-28T16:25:47.764Z,2026-05-28T16:25:47.862Z
+1,1468,192.168.100.1,0,-1,Unknown,unknown,ICMP,Closed,,28,28,1,1,2026-05-28T16:25:47.862Z,2026-05-28T16:25:47.866Z
+17,35127,10.215.173.2,53,10117,Meta App Manager,com.facebook.appmanager,DNS,Closed,graph.facebook.com,64,116,1,1,2026-05-28T16:25:56.800Z,2026-05-28T16:25:56.809Z
+6,51314,31.13.69.1,443,10117,Meta App Manager,com.facebook.appmanager,HTTPS,Closed,graph.facebook.com,2767,6012,12,12,2026-05-28T16:25:56.817Z,2026-05-28T16:26:20.618Z
+17,41503,31.13.69.1,443,10228,Instagram,com.instagram.android,QUIC,Closed,graph.facebook.com,6705,3003,10,10,2026-05-28T16:25:58.868Z,2026-05-28T16:25:59.164Z
