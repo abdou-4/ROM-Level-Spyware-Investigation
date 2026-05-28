@@ -204,10 +204,3 @@ Flash a clean AOSP-based ROM. LineageOS support for X6532 is **not officially av
 
 Security research conducted as part of SOC analyst portfolio development.  
 Tools used: PCAPdroid · Wireshark-compatible PCAP analysis
-
----
-
-## 📄 License
-
-This research and documentation is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
-You may share and adapt with attribution.
